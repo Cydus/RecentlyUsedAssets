@@ -2,6 +2,8 @@
 
 Recently Used Assets is an editor extension for Unity that increases your productivity in large projects by providing a “virtual folder” of your most recently used assets.
 
+![Image of Score System](http://davidball.dev/ImgUploads/RUA_preview.jpg)
+
 ## Features
 
 * Assets that change on disk get added to list.
