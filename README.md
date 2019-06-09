@@ -14,4 +14,7 @@ Recently Used Assets is an editor extension for Unity that increases your produc
 * Drag and drop assets as normal from the virtual folder
 
 ## Usage
-* Find Recently Used Assets under "Window > Asset Management > Recently used Assets"
+Find Recently Used Assets under "Window > Asset Management > Recently used Assets"
+
+---
+If you find this Asset useful please consider supporting its development by [purchasing it on the Unity Asset Store.](https://assetstore.unity.com/packages/tools/utilities/recently-used-assets-147394)
