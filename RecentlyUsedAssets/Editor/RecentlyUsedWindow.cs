@@ -91,7 +91,6 @@ namespace RUA
             foreach (RecentAsset ra in selectedInFavs)
                 ra._selected = true;
 
-
             Repaint();
         }
 
@@ -110,6 +109,11 @@ namespace RUA
             s.fixedHeight = 16;
 
             return s;
+        }
+        else
+        { 
+            if (EditorGUIUtility.isProSkin)
+                s.normal.textColor = new Color(0.760f, 0.760f, 0.760f);
         }
 
         GUIStyle GetFavouriteStyle()
